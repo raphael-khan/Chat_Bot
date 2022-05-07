@@ -1,4 +1,5 @@
-# TEXT MESSAGE AUTOMATION BOT 
+# TEXT MESSAGE AUTOMATION BOT ![image](https://user-images.githubusercontent.com/89990638/167235425-ef9670e5-9295-4632-8524-e579ce9e6623.png)
+
 
 SMS chat bot that utiltizes Twilio API to authenticate a user and send a message to any veirfied phone number. It also has the funtionality to read incoming texts and store error logs. 
 
