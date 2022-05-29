@@ -1,7 +1,7 @@
-# CHAT BOT ![image]
+# CHAT BOT
 
-
-SMS chat bot that utiltizes Twilio API to authenticate a user and send a message to any veirfied phone number. It also has the funtionality to read incoming texts and store error logs. 
+SMS chat bot that utiltizes Twilio API to authenticate a user and send a message to any veirfied phone number. 
+It also has the funtionality to read incoming texts and store error logs. 
 
 
 ![image](https://user-images.githubusercontent.com/89990638/161446703-6f57757f-293d-4310-a5df-a196d91e1e69.png)
