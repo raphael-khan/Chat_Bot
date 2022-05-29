@@ -1,4 +1,4 @@
-# SMS BOT ![image]
+# CHAT BOT ![image]
 
 
 SMS chat bot that utiltizes Twilio API to authenticate a user and send a message to any veirfied phone number. It also has the funtionality to read incoming texts and store error logs. 
